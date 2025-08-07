@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Huaneng Chen"
 
 positions:
-- logo: /assets/images/badges/xmu-logo.png  # Logo is optional
+- logo: /assets/images/badges/xmu-logo.webp  # Logo is optional
   name: M.S. student @ Xiamen University
 # - logo: /assets/images/badges/xmu-logo.png  # Logo is optional
 #   name: Position 2 without logo
@@ -15,7 +15,7 @@ email: "huanengchen@foxmail.com"
 github: chen-huaneng
 twitter: ChenHuaneng  # Do not include the '@' symbol
 blog: "https://chen-huaneng.github.io"
-# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_qrcode: /assets/images/etc/wechat.webp
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
@@ -33,25 +33,25 @@ short_bio: >-
     Outside of my academic work, I am a passionate self-learner with a deep interest in diverse areas of computer science and mathematics. I maintain a GitHub repository called <a href="https://github.com/chen-huaneng/Notes" target="_blank">Notes</a> and a blog <a href="https://chen-huaneng.github.io/" target="_blank">here</a> to share my self-learning notes and experiences.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait.webp
 portrait_caption: >-
   Photo by Guojing Lyu on Mount Huangshan
 
 education:
 - name: Xiamen University
-  logo: /assets/images/badges/xmu-logo.png
+  logo: /assets/images/badges/xmu-logo.webp
   position: >- 
     Department of Management Science <br/>
     M.S. Student
   date: Sep. 2025 - present
 - name: Xiamen University
-  logo: /assets/images/badges/xmu-logo.png
+  logo: /assets/images/badges/xmu-logo.webp
   position: B.S. in Management Science
   date: Sep. 2021 - Jun. 2025
 
 # experience:
 # - name: Peking University
-#   logo: /assets/images/badges/xmu-logo.png
+#   logo: /assets/images/badges/xmu-logo.webp
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
